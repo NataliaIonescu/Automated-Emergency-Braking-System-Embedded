@@ -1,0 +1,4 @@
+Simulate an automated emergency braking system for automobiles, with the following specs:
+● Automatically engage brakes if an obstacle is detected ahead. (you can use an ultrasonic distance sensor for this).
+● The system also beeps at the driver in order to panic him/her.
+● Engaging breaks is done via a HIGH signal through port 13 .
